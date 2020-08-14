@@ -1,0 +1,5 @@
+You do not have a working installation of the service_identity module: 'cannot import name 'opentype
+
+解决办法:
+pip install -I -U service_identity
+-----------------------------------------
